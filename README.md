@@ -1,5 +1,5 @@
-Population, Agricultural, and Economic Consequences of the War In Syria
-
+**Population, Agricultural, and Economic Consequences of the War In Syria
+**
 Contributors: Liane Barghouthi, Audrey Booher, Anoushka Gupta, 
 Richa Bhattacharya, Noah Wadhwani, Steffany Wong
 
