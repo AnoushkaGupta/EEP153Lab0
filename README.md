@@ -10,7 +10,6 @@ For our references: https://github.com/AnoushkaGupta/EEP153Lab0/blob/main/Refere
 
 For research, context, and more, please refer to: https://github.com/AnoushkaGupta/EEP153Lab0/blob/main/Syrian%20War%20Research.pdf
 
-For our slides: https://github.com/AnoushkaGupta/EEP153Lab0/blob/main/Syrian%20Civil%20War%20Effects%20on%20Population%2C%20Agriculture%2C%20and%20the%20Economy%20.pdf
 
 You can also view our code in separate chunks based on the drafts of our code in the individual files, although viewing the final compiled code is recommended:
 
