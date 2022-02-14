@@ -10,7 +10,7 @@ For our references: https://github.com/AnoushkaGupta/EEP153Lab0/blob/main/Refere
 
 For research, context, and more, please refer to: https://github.com/AnoushkaGupta/EEP153Lab0/blob/main/Syrian%20War%20Research.pdf
 
-You can also view our code in separate chunks based on the drafts of our code in the individual files:
+You can also view our code in separate chunks based on the drafts of our code in the individual files, although viewing the final compiled code is recommended:
 
 For data analysis on refugee demographics and fertility: https://github.com/AnoushkaGupta/EEP153Lab0/blob/main/Syrian%20Refugees%20and%20Fertility%20Rates.ipynb
 
